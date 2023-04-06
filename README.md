@@ -1,0 +1,1 @@
+# fastapi-elastic-search
